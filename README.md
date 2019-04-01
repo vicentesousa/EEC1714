@@ -12,3 +12,11 @@
 **Objetivos:**
 - Análise visual de potência recebida com sobreamento
 - Implementação do sombreamento correlacionado 
+
+## Hands-on 02: Caracterização de canal
+
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/h02_parte01.ipynb)
+**Objetivos:**
+- Gerar uma série temporal sintética com Perda de Percurso, Sombreamento e Desvanecimento m-Nakagami;
+- Estimar cada desvanecimento por meio de regressão linear, filtragem e tratamento estatístico;
+- Fazer gráficos e comparar as partes geradas sinteticamente e as partes estimadas.
