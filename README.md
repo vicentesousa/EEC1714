@@ -1,4 +1,4 @@
-# EEC1714: Comunicações Sem Fio - PPGEEC (2019.1) 
+# EEC1714: Comunicações Sem Fio - PPGEEC (2020.1) 
 
 ## Hands-on 01: Uso de modelos de propagação para análises sistêmicas
 
