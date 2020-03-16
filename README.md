@@ -24,3 +24,40 @@
 - Estimar cada desvanecimento por meio de regressão linear, filtragem e tratamento estatístico;
 - Fazer gráficos e comparar as partes geradas sinteticamente e as partes estimadas.
 
+
+<!--
+
+## Hands-on 03: Transição analógico/digital (amostragem, reconstrução ideal, quantização, codificação PCM e multiplexação TDM) 
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/h06.ipynb) 
+### Objetivos
+- Fazer uma breve revisão sobre o processo de digitalização de um sinal contínuo (amostragem, quantização, codificação, reconstrução);
+- Fazer uma breve revisão sobre o processo de no tempo;
+- Praticar os conceitos com protótipos em Matlab e Python.
+   
+### [Entregáveis do Hands-on 03](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/h06_relatorio.ipynb)
+
+
+## Hands-on 04: Modulação Digital em banda-base em canais AWGN (modulação, demodulação e desempenho em ruído AWGN) 
+
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/h09.ipynb) 
+### Objetivos
+- Entender os processos de transmissão e recepção digital em banda-base (sinais ortogonais e antipodais);
+- Entender recepção ótima em canais AWGN;
+- Entender como fazer análise de desempenho de um enlace de comunicação digital sujeito a canal AWGN (traçar e analisar curva BER vs $E_B/N_0$ via simulação de Monte Carlo).
+
+
+### [Entregáveis do Hands-on 04](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/h09_relatorio.ipynb)
+
+## Hands-on 05: Modulação Digital em canais limitados em banda e Modulação Digital em banda-passante (modulação, demodulação e desempenho em ruído AWGN) 
+
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h10.ipynb) 
+### Objetivos
+- Entender os processos de transmissão e recepção de um sinal digital em canais AWGN limitado em banda (caracterização da ISI);
+- Entender a traçar e analisar um diagrama de olho (visualização dos efeitos da ISI);
+- Entender os processos de transmissão e recepção de um sinal digital em banda-passante.
+- Aprender a estimar a PSD de sinais digitais.
+
+### [Entregáveis do Hands-on 05](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/h10_relatorio.ipynb)
+
+
+-->
