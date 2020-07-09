@@ -15,7 +15,7 @@
 - Análise visual de potência recebida com sobreamento
 - Implementação do sombreamento correlacionado 
 
-**As entregas devem compor um único arquivo zip com os códigos sepearados nas seguintes pastas: Entrega_01, Entrega_02 e Entrega_03, respectivamente para cada entrega. Cada pasta deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um documento, de no máximo uma página, relatando algum aspecto que você ache importante destacar sobre cada experimento. O relato pode ser técnico (análise de algum resultado) ou administrativo (voltado a comentários sobre a execução do projeto). O arquivo zip deve ser entregue via SIGAA.**
+**As entregas devem compor um único arquivo zip com os códigos separados nas seguintes pastas: Entrega_01, Entrega_02 e Entrega_03, respectivamente para cada entrega. Cada pasta deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um documento, de no máximo uma página, relatando algum aspecto que você ache importante destacar sobre cada experimento. O relato pode ser técnico (análise de algum resultado) ou administrativo (voltado a comentários sobre a execução do projeto). O arquivo zip deve ser entregue via SIGAA.**
 
 
 ### Hands-on 02: Caracterização de canal banda estreita
@@ -29,6 +29,13 @@
 **As entregas devem compor um único arquivo zip com os códigos. A pasta deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um documento, de no máximo uma página, relatando algum aspecto que você ache importante destacar sobre cada experimento. O relato pode ser técnico (análise de algum resultado) ou administrativo (voltado a comentários sobre a execução do projeto). O arquivo zip deve ser entregue via SIGAA.**
 
 # Parte 2 
+
+**As entregas estão especificadas nos Hands-ons. O entregável deve compor um único arquivo zip com os códigos separados nas seguintes pastas:** 
+  - **Entrega_01_3** e **Entrega_02_3**: para as entregas do Hands-on 3 
+  - 
+
+**Cada pasta deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um documento, de no máximo uma página, relatando algum aspecto que você ache importante destacar sobre cada experimento (no máximo uma página por experimento). O relato pode ser técnico (análise de algum resultado) ou administrativo (voltado a comentários sobre a execução do projeto). O arquivo zip deve ser entregue via SIGAA.**
+
 
 ## Hands-on 03: Transição analógico/digital (amostragem, reconstrução ideal, quantização, codificação PCM e multiplexação TDM) 
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/h06.ipynb) 
