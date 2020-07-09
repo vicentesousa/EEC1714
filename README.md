@@ -15,7 +15,7 @@
 - Análise visual de potência recebida com sobreamento
 - Implementação do sombreamento correlacionado 
 
-**As entregas devem compor um único arquivo zip com os códigos sepearados nas seguintes pastas: Entrega_01, Entrega_02 e Entrega_03, respectivamente para cada entrega. Cada pasta deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um documento, de no máximo uma página, relatando algum aspecto que você ache importante destacar sobre cada experimento. O relato pode ser técnico (análise de algum resultado) ou administrativo (voltado a comentários sobre a execução do projeto). O arquivo zip deve ser entregue via SIGAA.**
+**As entregas devem compor um único arquivo zip com os códigos separados nas seguintes pastas: Entrega_01, Entrega_02 e Entrega_03, respectivamente para cada entrega. Cada pasta deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um documento, de no máximo uma página, relatando algum aspecto que você ache importante destacar sobre cada experimento. O relato pode ser técnico (análise de algum resultado) ou administrativo (voltado a comentários sobre a execução do projeto). O arquivo zip deve ser entregue via SIGAA.**
 
 
 ### Hands-on 02: Caracterização de canal banda estreita
@@ -28,13 +28,15 @@
 
 **As entregas devem compor um único arquivo zip com os códigos. A pasta deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um documento, de no máximo uma página, relatando algum aspecto que você ache importante destacar sobre cada experimento. O relato pode ser técnico (análise de algum resultado) ou administrativo (voltado a comentários sobre a execução do projeto). O arquivo zip deve ser entregue via SIGAA.**
 
-# Parte 2 (a definir)
+# Parte 2 
 
+**As entregas estão especificadas nos Hands-ons. O entregável deve compor um único arquivo zip com os códigos separados nas seguintes pastas:** 
+  - **Entrega_01_3** e **Entrega_02_3**: para as entregas do Hands-on 3 
+  - **Entrega_01_4**: para as entregas do Hands-on 4 
+  - **Entrega_01_5**: para as entregas do Hands-on 5 
 
-# Parte 3 (a definir)
+**Cada pasta deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um documento, de no máximo uma página, relatando algum aspecto que você ache importante destacar sobre cada experimento (no máximo uma página por experimento). O relato pode ser técnico (análise de algum resultado) ou administrativo (voltado a comentários sobre a execução do projeto). O arquivo zip deve ser entregue via SIGAA.**
 
-
-<!--
 
 ## Hands-on 03: Transição analógico/digital (amostragem, reconstrução ideal, quantização, codificação PCM e multiplexação TDM) 
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/h06.ipynb) 
@@ -43,9 +45,6 @@
 - Fazer uma breve revisão sobre o processo de no tempo;
 - Praticar os conceitos com protótipos em Matlab e Python.
    
-### [Entregáveis do Hands-on 03](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/h06_relatorio.ipynb)
-
-
 ## Hands-on 04: Modulação Digital em banda-base em canais AWGN (modulação, demodulação e desempenho em ruído AWGN) 
 
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/h09.ipynb) 
@@ -53,9 +52,6 @@
 - Entender os processos de transmissão e recepção digital em banda-base (sinais ortogonais e antipodais);
 - Entender recepção ótima em canais AWGN;
 - Entender como fazer análise de desempenho de um enlace de comunicação digital sujeito a canal AWGN (traçar e analisar curva BER vs $E_B/N_0$ via simulação de Monte Carlo).
-
-
-### [Entregáveis do Hands-on 04](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/h09_relatorio.ipynb)
 
 ## Hands-on 05: Modulação Digital em canais limitados em banda e Modulação Digital em banda-passante (modulação, demodulação e desempenho em ruído AWGN) 
 
@@ -66,7 +62,12 @@
 - Entender os processos de transmissão e recepção de um sinal digital em banda-passante.
 - Aprender a estimar a PSD de sinais digitais.
 
-### [Entregáveis do Hands-on 05](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/h10_relatorio.ipynb)
+# Parte 3 (a definir)
+
+
+<!--
+
+
 
 
 -->
