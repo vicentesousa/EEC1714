@@ -28,6 +28,7 @@
 
 **As entregas devem compor um único arquivo zip com os códigos. A pasta deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um documento, de no máximo uma página, relatando algum aspecto que você ache importante destacar sobre cada experimento. O relato pode ser técnico (análise de algum resultado) ou administrativo (voltado a comentários sobre a execução do projeto). O arquivo zip deve ser entregue via SIGAA.**
 
+<!--
 # Parte 2 
 
 **As entregas estão especificadas nos Hands-ons. O entregável deve compor um único arquivo zip com os códigos separados nas seguintes pastas:** 
@@ -65,7 +66,7 @@
 # Parte 3 (a definir)
 
 
-<!--
+
 
 
 
