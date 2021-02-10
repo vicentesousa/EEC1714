@@ -11,13 +11,16 @@
 - Estimar cada desvanecimento por meio de regressão linear, filtragem e tratamento estatístico;
 - Fazer gráficos e comparar as partes geradas sinteticamente e as partes estimadas.
 
-**Esse hands-on estabelece entregas que devem compor um único arquivo zip com duas pastas nomeadas como: code e report. A pasta "code" deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um documento, de no máximo uma página, relatando algum aspecto técnico que você ache importante destacar sobre cada experimento. O arquivo zip deve ser entregue via SIGAA.**
+**Esse hands-on descreve também uma entrega que deve compor um único arquivo zip com duas pastas nomeadas como: code e report. A pasta "code" deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um documento, de no máximo uma página, relatando algum aspecto técnico que você ache importante destacar sobre cada experimento. O arquivo zip deve ser entregue via SIGAA.**
 
 ### Projeto 1: Comparação de modelos clássicos de canal com mobilidade
 **Objetivos:**
 - Buscar material sobre os modelos clássicos de Clarke/Gans e Jakes;
 - Gerar material compacto escrito sobre os modelos;
 - Codificar cada modelo e discutir comparações gráficas pedidas.
+
+**A entrega dos resultados do projeto devem compor um único arquivo zip com duas pastas nomeadas como: code e report. A pasta "code" deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um documento, de no máximo cinco páginas, relatando algum aspecto técnico que você ache importante destacar sobre cada experimento. O arquivo zip deve ser entregue via SIGAA.**
+
 
 #### Descrição do projeto [Link via Github](https://github.com/vicentesousa/EEC1714/blob/master/projeto_I.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/projeto_I.ipynb)
 
@@ -27,6 +30,8 @@
 - Pesquisar sobre o perfil atraso-potência (PDP) dos modelos do ITU-R Pedestrian A e Vehicular A;
 - Usar o PDP de tais modelos para implementar um modelo de canal TDL (Tapped Delay Line) completo, incluindo a modelagem do efeito Doppler via modelo de Jakes;
 - Discutir comparações gráficas pedidas.
+
+**A entrega dos resultados do projeto devem compor um único arquivo zip com duas pastas nomeadas como: code e report. A pasta "code" deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um documento, de no máximo cinco páginas, relatando algum aspecto técnico que você ache importante destacar sobre cada experimento. O arquivo zip deve ser entregue via SIGAA.**
 
 #### Descrição do projeto [Link via Github](https://github.com/vicentesousa/EEC1714/blob/master/projeto_II.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/projeto_II.ipynb)
 
