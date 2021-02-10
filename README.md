@@ -4,7 +4,8 @@
 
 ### Hands-on 01: Caracterização de canal banda estreita
 
-#### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/h02_parte01.ipynb)
+#### [Link via Github](https://github.com/vicentesousa/EEC1714/blob/master/h01_parte_03.ipynb)) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/h01_parte_03.ipynb)
+
 **Objetivos:**
 - Gerar uma série temporal sintética com Perda de Percurso, Sombreamento e Desvanecimento m-Nakagami;
 - Estimar cada desvanecimento por meio de regressão linear, filtragem e tratamento estatístico;
@@ -18,7 +19,8 @@
 - Gerar material compacto escrito sobre os modelos;
 - Codificar cada modelo e discutir comparações gráficas pedidas.
 
-#### [Descrição](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/projeto_I.ipynb)
+#### Descrição do projeto [Link via Github](https://github.com/vicentesousa/EEC1714/blob/master/projeto_I.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/projeto_I.ipynb)
+
 
 ### Projeto 2: Modelagem de canal com multipercursos
 **Objetivos:**
@@ -26,7 +28,8 @@
 - Usar o PDP de tais modelos para implementar um modelo de canal TDL (Tapped Delay Line) completo, incluindo a modelagem do efeito Doppler via modelo de Jakes;
 - Discutir comparações gráficas pedidas.
 
-#### [Descrição](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/projeto_II.ipynb)
+#### Descrição do projeto [Link via Github](https://github.com/vicentesousa/EEC1714/blob/master/projeto_II.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/projeto_II.ipynb)
+
 
 <!--
 # Parte 2 
