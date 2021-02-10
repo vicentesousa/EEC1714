@@ -4,7 +4,7 @@
 
 ### Hands-on 01: Caracterização de canal banda estreita
 
-#### [Link via Github](https://github.com/vicentesousa/EEC1714/blob/master/h01_parte_03.ipynb)) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/h01_parte_03.ipynb)
+#### [Link via Github](https://github.com/vicentesousa/EEC1714/blob/master/h01_parte_03.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/h01_parte_03.ipynb)
 
 **Objetivos:**
 - Gerar uma série temporal sintética com Perda de Percurso, Sombreamento e Desvanecimento m-Nakagami;
