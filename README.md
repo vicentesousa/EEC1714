@@ -1,4 +1,4 @@
-# EEC1714: Comunicações Sem Fio - PPGEEC (2020.2) 
+# EEC1714: Comunicações Sem Fio - PPGEEC (2021.1) 
 
 ## Parte 1
 
@@ -36,9 +36,17 @@
 #### Descrição do projeto [Link via Github](https://github.com/vicentesousa/EEC1714/blob/master/projeto_II.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/projeto_II.ipynb)
 
 
-<!--
+
 # Parte 2 
 
+## Hands-on 01: Transição analógico/digital (amostragem, reconstrução ideal, quantização, codificação PCM e multiplexação TDM) 
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/h06.ipynb) 
+### Objetivos
+- Fazer uma breve revisão sobre o processo de digitalização de um sinal contínuo (amostragem, quantização, codificação, reconstrução);
+- Fazer uma breve revisão sobre o processo de no tempo;
+- Praticar os conceitos com protótipos em Matlab e Python.
+
+<!--
 **As entregas estão especificadas nos Hands-ons. O entregável deve compor um único arquivo zip com os códigos separados nas seguintes pastas:** 
   - **Entrega_01_3** e **Entrega_02_3**: para as entregas do Hands-on 3 
   - **Entrega_01_4**: para as entregas do Hands-on 4 
@@ -47,12 +55,7 @@
 **Cada pasta deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um documento, de no máximo uma página, relatando algum aspecto que você ache importante destacar sobre cada experimento (no máximo uma página por experimento). O relato pode ser técnico (análise de algum resultado) ou administrativo (voltado a comentários sobre a execução do projeto). O arquivo zip deve ser entregue via SIGAA.**
 
 
-## Hands-on 03: Transição analógico/digital (amostragem, reconstrução ideal, quantização, codificação PCM e multiplexação TDM) 
-### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/h06.ipynb) 
-### Objetivos
-- Fazer uma breve revisão sobre o processo de digitalização de um sinal contínuo (amostragem, quantização, codificação, reconstrução);
-- Fazer uma breve revisão sobre o processo de no tempo;
-- Praticar os conceitos com protótipos em Matlab e Python.
+
    
 ## Hands-on 04: Modulação Digital em banda-base em canais AWGN (modulação, demodulação e desempenho em ruído AWGN) 
 
