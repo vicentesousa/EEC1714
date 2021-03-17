@@ -37,10 +37,11 @@
 
 
 
-# Parte 2 
+## Parte 2 
 
-## Hands-on 01: Transição analógico/digital (amostragem, reconstrução ideal, quantização, codificação PCM e multiplexação TDM) 
-### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/h06.ipynb) 
+### Hands-on 01: Transição analógico/digital (amostragem, reconstrução ideal, quantização, codificação PCM e multiplexação TDM) 
+#### [Link via Github](https://github.com/vicentesousa/EEC1714/blob/master/h06.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/h06.ipynb)
+
 ### Objetivos
 - Fazer uma breve revisão sobre o processo de digitalização de um sinal contínuo (amostragem, quantização, codificação, reconstrução);
 - Fazer uma breve revisão sobre o processo de no tempo;
@@ -51,9 +52,9 @@
 **A entrega dos resultados do projeto devem compor um único arquivo zip com duas pastas nomeadas como: code e report. A pasta "code" deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um vídeo, de no máximo cinco minutos, relatando a execução e discussão dos experimentos.**
 
 
-## Hands-on 02: Modulação Digital em banda-base em canais AWGN (modulação, demodulação e desempenho em ruído AWGN) 
+### Hands-on 02: Modulação Digital em banda-base em canais AWGN (modulação, demodulação e desempenho em ruído AWGN) 
+#### [Link via Github](https://github.com/vicentesousa/EEC1714/blob/master/h09.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/h09.ipynb)
 
-### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/h09.ipynb) 
 ### Objetivos
 - Entender os processos de transmissão e recepção digital em banda-base (sinais ortogonais e antipodais);
 - Entender recepção ótima em canais AWGN;
