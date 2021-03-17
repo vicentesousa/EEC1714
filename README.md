@@ -46,7 +46,20 @@
 - Fazer uma breve revisão sobre o processo de no tempo;
 - Praticar os conceitos com protótipos em Matlab e Python.
 
-**Esse hands-on define as entregas da aula invertida 3**
+**Esse hands-on define as entregas da Aula Invertida 2**
+
+**A entrega dos resultados do projeto devem compor um único arquivo zip com duas pastas nomeadas como: code e report. A pasta "code" deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um vídeo, de no máximo cinco minutos, relatando a execução e discussão dos experimentos.**
+
+
+## Hands-on 02: Modulação Digital em banda-base em canais AWGN (modulação, demodulação e desempenho em ruído AWGN) 
+
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/h09.ipynb) 
+### Objetivos
+- Entender os processos de transmissão e recepção digital em banda-base (sinais ortogonais e antipodais);
+- Entender recepção ótima em canais AWGN;
+- Entender como fazer análise de desempenho de um enlace de comunicação digital sujeito a canal AWGN (traçar e analisar curva BER vs $E_B/N_0$ via simulação de Monte Carlo).
+
+**Esse hands-on define as entregas da Aula Invertida 3**
 
 **A entrega dos resultados do projeto devem compor um único arquivo zip com duas pastas nomeadas como: code e report. A pasta "code" deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um vídeo, de no máximo cinco minutos, relatando a execução e discussão dos experimentos.**
 
