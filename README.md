@@ -49,7 +49,7 @@
 
 **Esse hands-on define as entregas da Aula Invertida 2**
 
-**A entrega dos resultados do projeto devem compor um único arquivo zip com duas pastas nomeadas como: code e report. A pasta "code" deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um vídeo, de no máximo cinco minutos, relatando a execução e discussão dos experimentos.**
+**A entrega dos resultados do projeto devem compor um único arquivo zip com duas pastas nomeadas como: code e report. A pasta "code" deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um vídeo, de no máximo cinco minutos, relatando a execução e discussão dos experimentos. Na pasta Report, deve conter um arquivo Video.txt como o link para o vídeo gravado por você (link para o youtube, por exemplo). Atenção: são definidas três entregas.**
 
 
 ### Hands-on 02: Modulação Digital em banda-base em canais AWGN (modulação, demodulação e desempenho em ruído AWGN) 
@@ -62,7 +62,7 @@
 
 **Esse hands-on define as entregas da Aula Invertida 3**
 
-**A entrega dos resultados do projeto devem compor um único arquivo zip com duas pastas nomeadas como: code e report. A pasta "code" deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um vídeo, de no máximo cinco minutos, relatando a execução e discussão dos experimentos.**
+**A entrega dos resultados do projeto devem compor um único arquivo zip com duas pastas nomeadas como: code e report. A pasta "code" deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um vídeo, de no máximo cinco minutos, relatando a execução e discussão dos experimentos. Atenção: são definidas três entregas. Na pasta Report, deve conter um arquivo Video.txt como o link para o vídeo gravado por você (link para o youtube, por exemplo).**
 
 <!--
 **As entregas estão especificadas nos Hands-ons. O entregável deve compor um único arquivo zip com os códigos separados nas seguintes pastas:** 
