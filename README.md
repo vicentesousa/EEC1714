@@ -64,6 +64,16 @@
 
 **A entrega dos resultados do projeto devem compor um único arquivo zip com duas pastas nomeadas como: code e report. A pasta "code" deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, a entrega deve conter um vídeo, de no máximo cinco minutos, relatando a execução e discussão dos experimentos. Atenção: são definidas três entregas. Na pasta Report, deve conter um arquivo Video.txt como o link para o vídeo gravado por você (link para o youtube, por exemplo).**
 
+
+## Hands-on 03: Modulação Digital em canais limitados em banda e Modulação Digital em banda-passante (modulação, demodulação e desempenho em ruído AWGN) 
+#### [Link via Github](https://github.com/vicentesousa/EEC1714/blob/master/h10.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/EEC1714/blob/master/h10.ipynb)
+
+### Objetivos
+- Entender os processos de transmissão e recepção de um sinal digital em canais AWGN limitado em banda (caracterização da ISI);
+- Entender a traçar e analisar um diagrama de olho (visualização dos efeitos da ISI);
+- Entender os processos de transmissão e recepção de um sinal digital em banda-passante.
+- Aprender a estimar a PSD de sinais digitais.
+
 <!--
 **As entregas estão especificadas nos Hands-ons. O entregável deve compor um único arquivo zip com os códigos separados nas seguintes pastas:** 
   - **Entrega_01_3** e **Entrega_02_3**: para as entregas do Hands-on 3 
